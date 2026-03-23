@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Pro Local AI Chatbot (Ollama + Streamlit)
 
 A professional, modern, and privacy-focused AI chat interface that runs entirely on your local machine. No data leaks, no subscription fees, just pure AI power.
@@ -64,3 +65,7 @@ This app is **100% private**.
 - It does **not** send data to OpenAI, Google, or any other cloud provider.
 - Everything runs on your local CPU/GPU via Ollama.
 - Chat history is stored only in your browser's current session memory.
+=======
+# streamlit-llm-interface
+Interactive Streamlit interface for a locally installed LLM using Ollama, allowing users to ask questions and receive AI-generated responses.
+>>>>>>> 95c35bceef9b4e6b874685abd25d588f69df87b6
